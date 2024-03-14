@@ -1,0 +1,6 @@
+Correcting common ocr errors like reading '1' as 'l',
+Some of the transactions like rent has been in both debit and credit, which seems to be odd, same with utilites.
+
+Assumption is online transfer, card payment , withdrawal are outward or debit
+
+The above dataset lacks bit of has contradictory amount on the basics of transaction type, and description,
